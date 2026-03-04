@@ -8,7 +8,7 @@ It is designed for visualization, experimentation, and understanding core beam b
 
 ---
 
-## ✨ Features
+## Features
 
 ### Interactive Controls
 - Drag point load along the beam
@@ -29,16 +29,16 @@ All updates occur instantly as inputs change.
 
 ---
 
-## 🧠 Solver Overview
+## Solver Overview
 
 The core logic is implemented in `BeamSolver`.
 
 Supported structural systems:
 
-### 1️⃣ Simply Supported Beam
+### 1. Simply Supported Beam
 Solved using static equilibrium equations.
 
-### 2️⃣ Propped Cantilever
+### 2. Propped Cantilever
 Solved using compatibility of deflection:
 - Unit load method
 - Superposition principle
