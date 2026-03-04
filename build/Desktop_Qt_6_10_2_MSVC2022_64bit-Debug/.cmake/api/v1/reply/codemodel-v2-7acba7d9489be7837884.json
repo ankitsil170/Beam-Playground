@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d047540d6a058a8f2f82.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Beam_Playground",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Beam_Playground::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Beam_Playground-Debug-3ac17d81d35554ed67b5.json",
+					"name" : "Beam_Playground",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Beam_Playground_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Beam_Playground_autogen-Debug-95942ef49a4dbbb31488.json",
+					"name" : "Beam_Playground_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Beam_Playground_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Beam_Playground_autogen_timestamp_deps-Debug-a529c38032dc8e923970.json",
+					"name" : "Beam_Playground_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/silan/OneDrive/Documents/Beam_Playground/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/silan/OneDrive/Documents/Beam_Playground"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
