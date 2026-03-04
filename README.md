@@ -1,6 +1,6 @@
 # Beam-Playground
 
-> A real-time interactive beam mechanics visualizer built with C++ and Qt.
+A real-time interactive beam mechanics visualizer built with C++ and Qt.
 
 Beam Playground is a focused structural mechanics tool that lets you drag loads, switch support conditions, and instantly observe how reactions, shear force, and bending moment diagrams change.
 
